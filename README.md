@@ -1,2 +1,0 @@
-# jslabs
-Created with CodeSandbox
